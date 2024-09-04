@@ -1,0 +1,8 @@
+<dependencies>
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.26</version>
+    </dependency>
+    <!-- Add any other dependencies you might need -->
+</dependencies>
